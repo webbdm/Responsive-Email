@@ -1,0 +1,25 @@
+<div class="email-background">
+
+  <div class="pre-header">
+    Incredible new feature is here!
+  </div>
+
+  <div class="email-container">
+    
+    <h1>The App Update You've Been Waiting For</h1>
+
+    <img src="https://placeimg.com/640/480/tech">
+
+    <p>This feature is amazing. It's way better than any of the other features. We redesigned the feature from the ground up. Enjoy this feature!</p>
+
+    <div class="cta">
+      <a href="">Watch the video now</a>
+    </div>
+
+  </div>
+
+  <div class="footer-text">
+    My Address | Unsubscribe
+  </div>
+
+</div>
